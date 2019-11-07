@@ -4,7 +4,7 @@
   * 空下index=0 
   * 
 index(i)的node：
-其 左子節點 必在index(2i)
+'其 左子節點 必在index(2i)'
 其 右子節點 必在index(2i+1)
 其 父節點 必在index(⌊i/2⌋)。
 
