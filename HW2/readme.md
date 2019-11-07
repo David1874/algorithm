@@ -1,6 +1,6 @@
 # HW2
-## Ideas & Tips
-> Heap
+> Ideas & Tips
+>> Heap
   * 讓index(0)的位置閒置
   * index(i)的節點：
   
