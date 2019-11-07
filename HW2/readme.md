@@ -2,7 +2,7 @@
 > 想法
 * Heap
   * 讓index(0)的位置閒置
-  * index(i)的node：
+  * index(i)的節點：
   
     其**左子節點**必在index(2i)
   
